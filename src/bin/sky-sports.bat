@@ -10,7 +10,7 @@ if not exist "%playlistDir%" (
 )
 
 :: Set assets URL
-set "assetsURL=../assets"
+set "assetsURL=https://raw.githubusercontent.com/EyePeaTV/EyePeaTV/refs/heads/main/src/assets"
 
 :: Set playlist details
 set "playlist=%playlistDir%\sky-sports.m3u"
