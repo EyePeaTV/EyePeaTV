@@ -13,10 +13,10 @@ if not exist "%playlistDir%" (
 set "assetsURL=https://raw.githubusercontent.com/EyePeaTV/EyePeaTV/refs/heads/main/src/assets"
 
 :: Set playlist details
-set "playlist=%playlistDir%\sky-sports.m3u"
-set "playlistTitle=Sky Sports"
-set "playlistLogoURL=%assetsURL%/logos/sky-sports.png"
-set "playlistURL=%assetsURL%/playlists/sky-sports.m3u"
+set "playlist=%playlistDir%\nbc.m3u"
+set "playlistTitle=NBC"
+set "playlistLogoURL=%assetsURL%/logos/nbc.png"
+set "playlistURL=%assetsURL%/playlists/nbc.m3u"
 
 :: Write to the .m3u file
 (

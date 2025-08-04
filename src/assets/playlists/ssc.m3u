@@ -16,3 +16,17 @@ http://173.212.193.243:8080/live/mo3ad222/mo3ad222/883.ts
 http://173.212.193.243:8080/live/mo3ad222/mo3ad222/880.ts
 #EXTINF:0 CUID="19" tvg-name="AD | SPORT PREMIUM 2 HD" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 2 HD
 http://173.212.193.243:8080/live/mo3ad222/mo3ad222/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 1" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 1
+http://nodns1.top:8080/8951732454602621/f24c469df332/53237
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 2" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 2
+http://nodns1.top:8080/8951732454602621/f24c469df332/53238
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 3" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 3
+http://nodns1.top:8080/8951732454602621/f24c469df332/53239
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 4" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 4
+http://nodns1.top:8080/8951732454602621/f24c469df332/53240
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 5" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 5
+http://nodns1.top:8080/8951732454602621/f24c469df332/53241
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 6" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 6
+http://nodns1.top:8080/8951732454602621/f24c469df332/53242
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 7" tvg-logo="" group-title="ARAB | SAUDI ARABIA",AR: SSC SPORT 7
+http://nodns1.top:8080/8951732454602621/f24c469df332/53243
