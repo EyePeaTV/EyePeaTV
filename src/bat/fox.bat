@@ -15,7 +15,7 @@ set "assetsURL=https://raw.githubusercontent.com/EyePeaTV/EyePeaTV/refs/heads/ma
 :: Set playlist details
 set "playlist=%playlistDir%\fox.m3u"
 set "playlistTitle=FOX"
-set "playlistLogoURL=%assetsURL%/logos/fox.png"
+set "playlistLogoURL=%assetsURL%/logos/fox-sports.png"
 set "playlistURL=%assetsURL%/playlists/fox.m3u"
 
 :: Write to the .m3u file
